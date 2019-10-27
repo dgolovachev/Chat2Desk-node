@@ -1,0 +1,14 @@
+{
+  "name": "chat2desk-node",
+  "version": "1.0.0",
+  "description": "chat2desk client node-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "d.a.golovachev@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
